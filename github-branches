@@ -1,0 +1,8 @@
+]633;E;echo '$ git branch -a -vv';1c9b0a98-f27a-45ac-b3d2-55e94362b2ca]633;C$ git branch -a -vv
+  bug-fix-revert                fbaedd3 [origin/bug-fix-revert] Add bug-fix-revert output
+  bug-fix-typo                  6f84cfa [origin/bug-fix-typo] Fix typo in README
+* main                          fbaedd3 [origin/main] Add bug-fix-revert output
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert fbaedd3 Add bug-fix-revert output
+  remotes/origin/bug-fix-typo   6f84cfa Fix typo in README
+  remotes/origin/main           fbaedd3 Add bug-fix-revert output
